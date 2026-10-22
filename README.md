@@ -1,4 +1,4 @@
-SaiLang 0.9.9 for Linux (64-bit)
+SaiLang 0.9.9.9 for Linux (64-bit)
 ================================
 
 This folder contains one program, "sai". It does not need Python installed.
